@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BryceStampfl
 - 👀 I’m interested in finding a development job in the SF area
-- 🌱 I’m currently learning Redux with React to expand my knowledge base
+- 🌱 I’m currently expanding my frontend skillset
 - 💞️ I’m looking to collaborate on anything :)
 - 📫 How to reach me: email is best!
 
