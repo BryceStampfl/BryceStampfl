@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on anything :)
 - 📫 How to reach me: email is best!
 
-Thanks for visiting my profile! I have been programming for around 7 years now, with 3ish years professional experience. I started teaching myself Java and python before I went into the major and fell in love making programs.
+Thanks for visiting my profile! I have been programming for around 8 years now, with 3ish years professional experience. I started teaching myself Java and python before I went into the major and fell in love making programs.
 
-I am experience in Java and Javascript and work mostly with React/Node now.
+I am experienced in Java and Javascript and work mostly with React/React Native or Spring Framework now.
 
 <!---
 BryceStampfl/BryceStampfl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
